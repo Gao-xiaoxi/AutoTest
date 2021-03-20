@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="test">
+    <tests>
+        <test name="LoginA">
+            <classes>
+                <class name="suite.SuiteConfig" />
+                <class name="suite.LoginATest" />
+            </classes>
+        </test>
+        <test name="LoginB">
+            <classes>
+                <class name="suite.SuiteConfig" />
+                <class name="suite.LoginBTest" />
+            </classes>
+        </test>
+    </tests>
+</suite>
